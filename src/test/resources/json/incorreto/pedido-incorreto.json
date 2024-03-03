@@ -1,0 +1,42 @@
+{
+    "cliente": {
+        "id": 1
+    },
+    "estabelecimento": {
+        "id": 1
+    },
+    "formaPagamento": {
+        "id": 1
+    },
+    "nomePedido": "Augusto Pereira da Silva",
+    "emailPedido": "augustoSilva@gmail.com",
+    "contatoPedido": "(19) 993813035",
+    "cpfPedido": "67295460004",
+    "enderecoEntrega": {
+        "cep": "38400-000",
+        "logradouro": "Rua Floriano Peixoto",
+        "numero": "600",
+        "complemento": "",
+        "bairro": "Monte Oliveira",
+        "cidade": {
+            "id": 1
+        }
+    },
+    "itens": [
+        {
+            "produtoId": "1",
+            "quantidade": "2"
+        },
+        {
+            "produtoId": 10,
+            "quantidade": 1,
+            "observacao": "Hamburguer bem passado, por favor!"
+        }
+    ],
+    "chavePixPedido": "",
+    "numeroCartaoPedido": "5534 3386 7276 6225",
+    "dataValidadeCartaoPedido": "2023-12-31T23:59:59Z",
+    "codigoSegurancaCartaoPedido": "556",
+    "bandeiraCartaoPedido": "Visa"
+    
+}

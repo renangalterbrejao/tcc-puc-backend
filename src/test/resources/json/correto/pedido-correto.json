@@ -1,0 +1,44 @@
+{
+    "cliente": {
+        "id": 1
+    },
+    "estabelecimento": {
+        "id": 1
+    },
+    "formaPagamento": {
+        "id": 2
+    },
+    "nomePedido": "Avaliador 1",
+    "emailPedido": "avaliadortccamericana@gmail.com",
+    "contatoPedido": "(19) 993813035",
+    "cpfPedido": "607.562.780-40",
+    "enderecoEntrega": {
+        "cep": "13465000",
+        "logradouro": "Rua Álvaro Machado",
+        "numero": "40",
+        "complemento": "",
+        "bairro": "Jardim Pérola II",
+        "cidade": {
+            "id": 6
+        }
+    },
+    "itens": [
+        {
+            "produtoId": "4",
+            "quantidade": "2"
+        },
+        {
+            "produtoId": "18",
+            "quantidade": "3"
+        },
+        {
+            "produtoId": "19",
+            "quantidade": "1"
+        }
+    ],
+    "chavePixPedido": "",
+    "numeroCartaoPedido": "5321 1267 1835 7787",
+    "dataValidadeCartaoPedido": "2024-12-31T23:00Z",
+    "codigoSegurancaCartaoPedido": "464",
+    "bandeiraCartaoPedido": "Visa"
+}
